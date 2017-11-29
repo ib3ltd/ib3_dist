@@ -69,7 +69,5 @@ dependencies:
   - user_default_page
 
 themes:
-  - bartik
-  - seven
   - ib3
   - ib3_admin
