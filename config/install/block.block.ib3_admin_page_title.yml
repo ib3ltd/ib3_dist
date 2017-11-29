@@ -6,7 +6,7 @@ dependencies:
 id: ib3_admin_page_title
 theme: ib3_admin
 region: header
-weight: -30
+weight: -2
 provider: null
 plugin: page_title_block
 settings:

@@ -71,3 +71,4 @@ dependencies:
 themes:
   - ib3
   - ib3_admin
+  - bartik
