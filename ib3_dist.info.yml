@@ -1,0 +1,75 @@
+name: ib3
+type: profile
+description: Default ib3 profile.
+core: 8.x
+distribution:
+  name: ib3
+  langcode: en
+
+dependencies:
+  - node
+  - history
+  - block
+  - breakpoint
+  - ckeditor
+  - color
+  - config
+  - contact
+  - menu_link_content
+  - datetime
+  - block_content
+  - editor
+  - help
+  - image
+  - menu_ui
+  - options
+  - path
+  - page_cache
+  - dynamic_page_cache
+  - taxonomy
+  - dblog
+  - search
+  - shortcut
+  - toolbar
+  - field_ui
+  - file
+  - rdf
+  - views
+  - views_ui
+  - automated_cron
+  - admin_toolbar
+  - amswap
+  - campaignmonitor
+  - crop
+  - ctools
+  - devel
+  - editor_file
+  - entity_reference_revisions
+  - focal_point
+  - geolocation
+  - google_analytics
+  - google_map_field
+  - honeypot
+  - linkit
+  - mailgun
+  - mailsystem
+  - menu_block
+  - metatag
+  - paragraphs
+  - pathauto
+  - promote_disable
+  - raven
+  - redirect
+  - rules
+  - simple_sitemap
+  - social_api
+  - social_auth
+  - token
+  - typed_data
+  - user_default_page
+
+themes:
+  - bartik
+  - seven
+  - ib3
+  - ib3_admin

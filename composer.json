@@ -1,0 +1,11 @@
+{
+    "name": "ib3/ib3_dist",
+    "description": "Default distribution (profile) for Drupal.",
+    "type": "drupal-profile",
+    "authors": [
+        {
+            "name": "ib3",
+            "email": "team@ib3.uk"
+        }
+    ]
+}
