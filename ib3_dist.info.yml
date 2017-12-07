@@ -67,6 +67,7 @@ dependencies:
   - token
   - typed_data
   - user_default_page
+  - ib3_toolkit
 
 themes:
   - ib3
