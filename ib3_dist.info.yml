@@ -68,6 +68,7 @@ dependencies:
   - typed_data
   - user_default_page
   - ib3_toolkit
+  - ib3_module_generator
 
 themes:
   - ib3
